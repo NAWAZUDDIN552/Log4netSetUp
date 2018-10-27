@@ -26,7 +26,7 @@
       <bufferSize value="1" />
       <connectionType value="System.Data.SqlClient.SqlConnection, System.Data, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
       <connectionString value="data source=;initial catalog=;integrated security=false;persist security info=True;user id=;password="/>
-      <commandText value="therecrm_admin.procLogs_Insert" />
+      <commandText value="dbo.procLogs_Insert" />
       <commandType value="StoredProcedure" />
       <!--<commandText value="INSERT INTO tablename (logDate,logThread,logLevel,logSource,
     logMessage,exception) VALUES (@log_date, @log_thread, @log_level, 
